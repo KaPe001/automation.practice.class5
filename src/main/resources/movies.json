@@ -1,0 +1,104 @@
+{
+	"movies": [
+		{
+			"title": "The Shawshank Redemption",
+			"director": {
+				"firstName": "Frank",
+				"lastName": "Darabont"
+			},
+			"genre": "DRAMA",
+			"date": 1994,
+			"actors": [
+				{
+					"firstName": "Tim",
+					"lastName": "Robbins"
+				},
+				{
+					"firstName": "Morgan",
+					"lastName": "Freeman"
+				},
+				{
+					"firstName": "Bob",
+					"lastName": "Gunton"
+				}
+			]
+		},
+		{
+			"title": "Seven",
+			"director": {
+				"firstName": "David",
+				"lastName": "Fincher"
+			},
+			"genre": "THRILLER",
+			"date": 1995,
+			"actors": [
+				{
+					"firstName": "Morgan",
+					"lastName": "Freeman"
+				},
+				{
+					"firstName": "Brad",
+					"lastName": "Pitt"
+				},
+				{
+					"firstName": "Gwyneth",
+					"lastName": "Paltrow"
+				}
+			]
+		},
+		{
+			"title": "Intouchables",
+			"director": {
+				"firstName": "Olivier",
+				"lastName": "Nakache"
+			},
+			"genre": "DRAMA",
+			"date": 2011,
+			"actors": [
+				{
+					"firstName": "Francois",
+					"lastName": "Cluzet"
+				},
+				{
+					"firstName": "Omar",
+					"lastName": "Sy"
+				},
+				{
+					"firstName": "Anne",
+					"lastName": "Le Ny"
+				},
+				{
+					"firstName": "Audrey",
+					"lastName": "Fleurot"
+				}
+			]
+		},
+		{
+			"title": "Forest Gump",
+			"director": {
+				"firstName": "Robert",
+				"lastName": "Zemeckis"
+			},
+			"genre": "DRAMA",
+			"date": 1994,
+			"actors": [
+				{
+					"firstName": "Tom",
+					"lastName": "Hanks"
+				},
+				{
+					"firstName": "Robin",
+					"lastName": "Wright"
+				},
+				{
+					"firstName": "Sally",
+					"lastName": "Field"
+				},
+				{
+					"firstName": "Gary",
+					"lastName": "Sinise"
+				}
+			]
+		}
+	]
+}
